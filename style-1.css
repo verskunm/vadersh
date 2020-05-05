@@ -1,0 +1,343 @@
+@font-face {
+  font-family: 'qs-outline-icons';
+  src:  url("");
+  src:  url("qs-outline-icons.eot#iefix") format('embedded-opentype'),
+    url("qs-outline-icons.ttf") format('truetype'),
+    url("qs-outline-icons.woff") format('woff'),
+    url("qs-outline-icons.svg#qs-outline-icons") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="outline-"], [class*=" outline-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'qs-outline-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.outline-compare-cross-fill:before {
+  content: "\e943";
+}
+.outline-compare-fill:before {
+  content: "\e946";
+}
+.outline-compare-plus-fill:before {
+  content: "\e947";
+}
+.outline-compare-tick-fill:before {
+  content: "\e948";
+}
+.outline-see-bar-fill:before {
+  content: "\e949";
+}
+.outline-info-fill:before {
+  content: "\e94a";
+}
+.outline-plus-circle-fill:before {
+  content: "\e94b";
+}
+.outline-tick-circle:before {
+  content: "\e94c";
+}
+.outline-close:before {
+  content: "\e94d";
+}
+.outline-trash-fill:before {
+  content: "\e94e";
+}
+.outline-tools-download:before {
+  content: "\e94f";
+}
+.outline-cutlery-download:before {
+  content: "\e944";
+}
+.outline-product-details-download:before {
+  content: "\e945";
+}
+.outline-icon-qs-logo-bw:before {
+  content: "\e942";
+}
+.outline-icon-pen-tested:before {
+  content: "\e916";
+}
+.outline-badge-testato .path1:before {
+  content: "\e917";
+  color: rgb(66, 163, 107);
+}
+.outline-badge-testato .path2:before {
+  content: "\e918";
+  margin-left: -0.8330078125em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-testato .path3:before {
+  content: "\e919";
+  margin-left: -0.8330078125em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-testato .path4:before {
+  content: "\e91a";
+  margin-left: -0.8330078125em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-testato .path5:before {
+  content: "\e91b";
+  margin-left: -0.8330078125em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-testato .path6:before {
+  content: "\e91c";
+  margin-left: -0.8330078125em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-testato .path7:before {
+  content: "\e91d";
+  margin-left: -0.8330078125em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-testato .path8:before {
+  content: "\e91e";
+  margin-left: -0.8330078125em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-testato .path9:before {
+  content: "\e91f";
+  margin-left: -0.8330078125em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-valutato .path1:before {
+  content: "\e920";
+  color: rgb(131, 134, 136);
+}
+.outline-badge-valutato .path2:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-valutato .path3:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-valutato .path4:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-valutato .path5:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-valutato .path6:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-valutato .path7:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-valutato .path8:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-valutato .path9:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-recensito .path1:before {
+  content: "\e929";
+  color: rgb(131, 134, 136);
+}
+.outline-badge-recensito .path2:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-recensito .path3:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-recensito .path4:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-recensito .path5:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-recensito .path6:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-recensito .path7:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-recensito .path8:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-badge-recensito .path9:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.outline-icon-qs-play-colored .path1:before {
+  content: "\e932";
+  color: rgb(64, 153, 255);
+}
+.outline-icon-qs-play-colored .path2:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(205, 51, 45);
+}
+.outline-icon-qs-play-colored .path3:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(59, 89, 152);
+}
+.outline-icon-qs-play-colored .path4:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(255, 193, 43);
+}
+.outline-icon-qs-play-colored .path5:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(71, 172, 114);
+}
+.outline-icon-qs-play-colored .path6:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(40, 46, 53);
+}
+.outline-icon-qs-play-colored .path7:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(37, 41, 44);
+}
+.outline-icon-manual:before {
+  content: "\e939";
+}
+.outline-icon-table:before {
+  content: "\e93a";
+}
+.outline-icon-grid:before {
+  content: "\e93b";
+}
+.outline-icon-info-round:before {
+  content: "\e93c";
+}
+.outline-icon-andamento-prezzo:before {
+  content: "\e93d";
+}
+.outline-icon-miglior-prezzo:before {
+  content: "\e93e";
+}
+.outline-icon-video:before {
+  content: "\e93f";
+}
+.outline-icon-video-recensione:before {
+  content: "\e940";
+}
+.outline-icon-gallery:before {
+  content: "\e941";
+}
+.outline-icon-qs-logo-colored .path1:before {
+  content: "\e90a";
+  color: rgb(40, 46, 53);
+}
+.outline-icon-qs-logo-colored .path2:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(64, 153, 255);
+}
+.outline-icon-qs-logo-colored .path3:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(205, 51, 45);
+}
+.outline-icon-qs-logo-colored .path4:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(59, 89, 152);
+}
+.outline-icon-qs-logo-colored .path5:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(255, 193, 43);
+}
+.outline-icon-qs-logo-colored .path6:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(71, 172, 114);
+}
+.outline-icon-qs-logo-colored .path7:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(40, 46, 53);
+}
+.outline-icon-unpacking:before {
+  content: "\e90f";
+}
+.outline-icon-aplication-not-approved:before {
+  content: "\e90e";
+}
+.outline-icon-review-declined:before {
+  content: "\e90c";
+}
+.outline-icon-review-accepted:before {
+  content: "\e90d";
+}
+.outline-icon-write-recenssion-main:before {
+  content: "\e90b";
+}
+.outline-icon-calendar:before {
+  content: "\e908";
+}
+.outline-icon-ship-product:before {
+  content: "\e909";
+}
+.outline-icon-tester-badge:before {
+  content: "\e900";
+}
+.outline-icon-keep-it-home:before {
+  content: "\e901";
+}
+.outline-icon-needs-approval:before {
+  content: "\e902";
+}
+.outline-icon-become-a-tester:before {
+  content: "\e903";
+}
+.outline-icon-collect-points:before {
+  content: "\e904";
+}
+.outline-icon-pen-talking:before {
+  content: "\e905";
+}
+.outline-icon-reduce-points:before {
+  content: "\e906";
+}
+.outline-icon-account:before {
+  content: "\e907";
+}
